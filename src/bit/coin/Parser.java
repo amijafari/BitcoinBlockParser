@@ -27,7 +27,7 @@ public class Parser {
 		System.out.println("read <n> \t\tRead n blockchain files.");
 		System.out.println("blocks \t\t\tGet total number of parsed blocks.");
 		System.out.println("print <n> \t\tPrint n blocks.");
-		System.out.println("transactions <n> \tGet n's block trasactions number.");
+		System.out.println("transactions <n> \tGet n's block transactions number.");
 		System.out.println("transactionsA <addr> \tGet all transactions from address.");
 		System.out.println("transactionsB <n> \tAll transactions with at least n Bitcoin value.");
 		System.out.println("balance <n> \t\tAddresses balance at least n.");
